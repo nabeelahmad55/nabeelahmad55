@@ -20,7 +20,7 @@ I enjoy solving complex problems, designing clean architectures, and exploring n
 
 
 <p align="center">
-  <a href="https://github.com/nabeelahmad55/nabeelahmad55/raw/main/assets/nabeel-ahmad-resume.pdf" target="_blank">
+  <a href="https://github.com/nabeelahmad55/nabeelahmad55/raw/main/assets/nabeel-ahmad-resume-2025-10-25.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"/>
   </a>
 </p>
