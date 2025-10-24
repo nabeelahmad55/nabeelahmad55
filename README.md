@@ -159,6 +159,10 @@ Demonstrates scalable architecture, CI/CD automation, and cloud infrastructure m
 A personal learning project to explore **AI**, including **Machine Learning**, **Deep Learning**, and **Neural Networks**.  
 Contains notes, experiments, and code implementations as part of an ongoing learning journey.
 
+### 🔹 [E Learning](https://github.com/nab555/E-Learning)
+A personal freelancing project built with **PHP** and **JavaScript**, focused on developing an interactive **E-Learning platform**.  
+Includes modules for user management, course content delivery, and dynamic UI features — combining backend logic with modern frontend interactivity.
+
 ---
 
 ## 📊 GitHub Stats
