@@ -152,15 +152,15 @@ I enjoy solving complex problems, designing clean architectures, and exploring n
 
 ## 📘 Featured Projects
 
-### 🔹 [Chat Project](https://github.com/nab555/Chat-Project)
+### 🔹 [Chat Project](https://github.com/nabeelahmad55/Chat-Project)
 Build and deploy a full-featured **Social Network Application** using modern technologies like **React**, **TypeScript**, **MongoDB**, **Redis**, **Queues**, **AWS**, **Terraform**, and **CircleCI**.  
 Demonstrates scalable architecture, CI/CD automation, and cloud infrastructure management for a production-ready platform.
 
-### 🔹 [Artificial Intelligence](https://github.com/nab555/Artificial-Intelligence)
+### 🔹 [Artificial Intelligence](https://github.com/nabeelahmad55/Artificial-Intelligence)
 A personal learning project to explore **AI**, including **Machine Learning**, **Deep Learning**, and **Neural Networks**.  
 Contains notes, experiments, and code implementations as part of an ongoing learning journey.
 
-### 🔹 [E Learning](https://github.com/nab555/E-Learning)
+### 🔹 [E Learning](https://github.com/nabeelahmad55/E-Learning)
 A personal freelancing project built with **PHP** and **JavaScript**, focused on developing an interactive **E-Learning platform**.  
 Includes modules for user management, course content delivery, and dynamic UI features — combining backend logic with modern frontend interactivity.
 
@@ -169,19 +169,19 @@ Includes modules for user management, course content delivery, and dynamic UI fe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nab555&show_icons=true&theme=github_dark" alt="Nabeel's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nab555&theme=github-dark-blue&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nabeelahmad55&show_icons=true&theme=github_dark" alt="Nabeel's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelahmad55&theme=github-dark-blue&hide_border=false" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nab555&layout=compact&theme=github_dark" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelahmad55&layout=compact&theme=github_dark" alt="Top Languages" width="48%"/>
 </p>
 
 ---
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nabeel-ahmad-0239a7235/)  
-- 🐙 [GitHub](https://github.com/nab555)  
+- 🐙 [GitHub](https://github.com/nabeelahmad55)  
 - ✉️ Email: nab.ahmad55@gmail.com 
 
 ---
