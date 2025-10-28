@@ -13,14 +13,14 @@ I enjoy solving complex problems, designing clean architectures, and exploring n
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://github.com/nabeelahmad55/nabeelahmad55/raw/main/assets/nabeel-ahmad-resume-2025-10-25.pdf" target="_blank" rel="noopener">
+  <a href="https://github.com/nabeelahmad55/nabeelahmad55/raw/main/assets/nabeel-resume.pdf" target="_blank" rel="noopener">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=300&lines=Download+My+Resume" alt="Typing SVG" />
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/nabeelahmad55/nabeelahmad55/raw/main/assets/nabeel-ahmad-resume-2025-10-25.pdf" target="_blank">
+  <a href="https://github.com/nabeelahmad55/nabeelahmad55/raw/main/assets/nabeel-resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"/>
   </a>
 </p>
