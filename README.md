@@ -164,6 +164,10 @@ Contains notes, experiments, and code implementations as part of an ongoing lear
 A personal freelancing project built with **PHP** and **JavaScript**, focused on developing an interactive **E-Learning platform**.  
 Includes modules for user management, course content delivery, and dynamic UI features — combining backend logic with modern frontend interactivity.
 
+### 🔹 [Task Manager API](https://github.com/nabeelahmad55/TaskManagerAPI)
+A personal freelancing project built with **Node** and **JavaScript**, focused on developing an interactive **Task Manager platform**.  
+Includes modules for user management, course content delivery, and dynamic UI features — combining backend logic with modern frontend interactivity.
+
 ---
 
 ## 📊 GitHub Stats
