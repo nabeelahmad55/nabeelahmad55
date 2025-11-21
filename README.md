@@ -164,7 +164,7 @@ Contains notes, experiments, and code implementations as part of an ongoing lear
 A personal freelancing project built with **PHP** and **JavaScript**, focused on developing an interactive **E-Learning platform**.  
 Includes modules for user management, course content delivery, and dynamic UI features — combining backend logic with modern frontend interactivity.
 
-### 🔹 [Task Manager API](https://github.com/nabeelahmad55/Full-Stack-Development)
+### 🔹 [Full Stack Development](https://github.com/nabeelahmad55/Full-Stack-Development)
 A personal freelancing project built with **Next.js, NestJS, React, Node.js, JavaScript, and TypeScript**, focused on developing a modern full-stack application.
 Includes modules for user management, API integration, and dynamic UI features — combining backend logic with clean, interactive frontend components.
 
