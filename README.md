@@ -174,7 +174,6 @@ Includes modules for user management, API integration, and dynamic UI features â
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabeelahmad55&show_icons=true&theme=github_dark" alt="Nabeel's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelahmad55&theme=github-dark-blue&hide_border=false" width="48%"/>
 </p>
 
 <p align="center">
